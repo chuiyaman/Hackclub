@@ -1,0 +1,32 @@
+/* Center everything */
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Style the main heading */
+h1 {
+    color: #333;
+    font-size: 2.5em;
+    margin-top: 20px;
+}
+
+/* Style paragraphs */
+p {
+    color: #555;
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+/* Style the image */
+img {
+    border-radius: 50%;
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
